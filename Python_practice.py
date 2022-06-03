@@ -138,6 +138,7 @@ print("------------------")
 # else:
 #     print("Open the windows.")
 
+<<<<<<< HEAD
 # What is the score?
 score = int(input("What is your test score? "))
 
@@ -152,6 +153,13 @@ elif score >= 60:
     print('Your grade is a D.')
 else:
     print('Your grade is an F.')
+=======
+x = 0
+while x <= 5:
+    print(x)
+    x = x +1
+print("---------------")
+>>>>>>> b4ee3d16a72db01e26acd05d1c20d5bd6e75ade4
 
 counties = ["Arapahoe","Denver","Jefferson"]
 for county in counties:
