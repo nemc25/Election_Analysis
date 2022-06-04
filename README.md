@@ -34,7 +34,7 @@ The analysis of the election show that:
   - Raymon Anthony Doane: 3.1% of the votes and 11,606 number of votes.
 -The winner of the election was:
   -Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
-  https://github.com/nemc25/Election_Analysis/blob/main/analysis/Election%20results.png
+ ![alt_text]https://github.com/nemc25/Election_Analysis/blob/main/analysis/Election%20results.png
   
  
  ## Challenge Overview and Summary
@@ -49,7 +49,7 @@ Arapahoe: with 6.7% (24,801 votes).
 -This makes a total Votes of 369,711.
 -Consequently, we can pinpoint that Denver county has the largest amount of registered voters in comparison with Arapahoe and Jefferson county.
 -Denver has the largest percentage of voters and votes: 306,055 wich is the 82.8%.
-https://github.com/nemc25/Election_Analysis/blob/main/analysis/Largest%20county%20turnout.png
+![alt_text]https://github.com/nemc25/Election_Analysis/blob/main/analysis/Largest%20county%20turnout.png
 
 **Election Results**
 -Total Votes from Arapahoe, Jefferson, and Denver county: 369,711
@@ -57,10 +57,10 @@ https://github.com/nemc25/Election_Analysis/blob/main/analysis/Largest%20county%
   -Charles Casper Stockham: 23.0% (85,213 of votes)
   -Diana DeGette: 73.8% (272,892 of votes)
   -Raymon Anthony Doane: 3.1% (11,606 of votes)
-  https://github.com/nemc25/Election_Analysis/blob/main/analysis/Winning%20candidate%20summary.png
+  ![alt_text]https://github.com/nemc25/Election_Analysis/blob/main/analysis/Winning%20candidate%20summary.png
   
 **The winner is:  Diana DeGette:
   -Winning Vote Count: 272,892
   -Winning Percentage: 73.8%
-  https://github.com/nemc25/Election_Analysis/blob/main/analysis/Election%20result%20txt.png
+  ![alt_text]https://github.com/nemc25/Election_Analysis/blob/main/analysis/Election%20result%20txt.png
 
